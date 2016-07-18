@@ -14,7 +14,15 @@ where `<url>` can be found by clicking on the green "Clone or Download" button a
 ## Ways to be awesome
 Here are some ways to be awesome:
 
+$$
+\mu + \sigma
+$$
 1. blah
+<<<<<<< HEAD
 2. blah
 3. dot, dot, dot...
 4. Hello
+=======
+1. blah
+1. dot, dot, dot...
+>>>>>>> origin/master
